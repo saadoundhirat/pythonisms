@@ -1,1 +1,1 @@
-pull request link: https://github.com/AhmadShalein/pythonisms/pull/1
+pull request link: https://github.com/saadoundhirat/pythonisms/pull/1
